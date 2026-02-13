@@ -2,3 +2,16 @@ git add (adds a file)
 git add . (adds all file)
 git status (show the status)
 git clone "link of repo" (clones the repo in VS) 
+git commit -m "some message"
+git push origin main (pushes local repo to remote repo i.e github)
+
+
+
+
+
+git init (used to create new git repo)
+after this do the same mention above from step 2 to step 5
+and then go to github and create a repo
+git remote add origin "link of repo"
+git remote -v (to verify)
+git push origin main
