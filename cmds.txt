@@ -1,0 +1,4 @@
+git add (adds a file)
+git add . (adds all file)
+git status (show the status)
+git clone "link of repo" (clones the repo in VS) 
